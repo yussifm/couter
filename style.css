@@ -32,4 +32,10 @@ main h3,
     border-radius: 10px;
     border-color: black;
     border-style: solid;
+    font-size: large;
+}
+
+.btn:hover {
+    background-color: black;
+    color: wheat;
 }
